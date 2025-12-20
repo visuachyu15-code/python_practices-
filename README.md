@@ -1,2 +1,3 @@
 # python_practices-
-python practice programs and daily practise
+#git hub journey 
+I am learning python.This repo contains my daily practise and projects
